@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/difflrn/Leetcode-DSA/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/difflrn/Leetcode-DSA/tree/master/0641-design-circular-deque) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/difflrn/Leetcode-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Hash Table
 |  |
@@ -24,12 +25,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/difflrn/Leetcode-DSA/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/difflrn/Leetcode-DSA/tree/master/0641-design-circular-deque) |
 ## Design
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/difflrn/Leetcode-DSA/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/difflrn/Leetcode-DSA/tree/master/0641-design-circular-deque) |
 ## Queue
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/difflrn/Leetcode-DSA/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/difflrn/Leetcode-DSA/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->
