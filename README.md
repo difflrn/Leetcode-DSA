@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/difflrn/Leetcode-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2409-count-days-spent-together](https://github.com/difflrn/Leetcode-DSA/tree/master/2409-count-days-spent-together) |
 | [3886-sum-of-sortable-integers](https://github.com/difflrn/Leetcode-DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Divide and Conquer
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2409-count-days-spent-together](https://github.com/difflrn/Leetcode-DSA/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/difflrn/Leetcode-DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Bit Manipulation
 |  |
