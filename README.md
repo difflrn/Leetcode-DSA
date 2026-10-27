@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/difflrn/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/difflrn/Leetcode-DSA/tree/master/0509-fibonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/difflrn/Leetcode-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/difflrn/Leetcode-DSA/tree/master/2409-count-days-spent-together) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/difflrn/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/difflrn/Leetcode-DSA/tree/master/0509-fibonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/difflrn/Leetcode-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Union-Find
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/difflrn/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/difflrn/Leetcode-DSA/tree/master/0509-fibonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/difflrn/Leetcode-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Combinatorics
