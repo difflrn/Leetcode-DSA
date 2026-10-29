@@ -22,3 +22,7 @@ public:
      return max ( solve( nums , 0 , n-2 ) , solve(nums , 1 , n-1) ) ;
     }
 };
+
+///
+// space complexity = O(n)
+// time complexity = O(n)
