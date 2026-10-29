@@ -22,3 +22,7 @@ public:
         return prev1 ;
     }
 };
+
+// Optimised space complexity 
+//  space complexity = O(n) 
+// time complexity = O(N) ;
