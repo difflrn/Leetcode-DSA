@@ -4,13 +4,16 @@ public:
         int n =  nums.size() ;
        
         vector <int> dp (n-1) ;
-        dp[0] = nums[start] ;
-        dp[1] = max(nums[start],nums[start+1]) ;
+       int  prev2 = nums[start] ;
+       int  prev1 = max(nums[start],nums[start+1]) ;
 
         for ( int i = start+2 , j = 2  ; i<= end ; i++ , j++ ){
-            dp[j]= max(dp[j-1], dp[j-2]+nums[i] ) ;
+           int curr = max(prev1, prev2+nums[i] ) ;
+
+            prev2 = prev1 ;
+            prev1 = curr ;
         }
-        return dp[n-2] ;
+        return prev1 ;
     }
     
     int rob(vector<int>& nums) {
@@ -24,5 +27,5 @@ public:
 };
 
 ///
-// space complexity = O(n)
-// time complexity = O(n)
+// Space complexity = O(1)
+// Time complexity = O(n)
