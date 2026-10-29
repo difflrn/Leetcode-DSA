@@ -24,5 +24,5 @@ public:
 };
 
 // Optimised space complexity 
-//  space complexity = O(n) 
+//  space complexity = O(1) 
 // time complexity = O(N) ;
