@@ -8,14 +8,17 @@ public:
         vector<int> dp(n) ;  
         
         // intitialize base condition
-        dp[0] = nums[0] ;
-        dp[1] = max( nums[0] , nums[1]) ;
+        int prev2 = nums[0] ;
+        int prev1 = max( nums[0] , nums[1]) ;
         
         //calculate for each house 
         for ( int i = 2 ; i < n ; i++ ){
-            dp[i] = max ( dp[i-1] , dp[i-2] + nums[i]) ;
+            int curr = max ( prev1 , prev2 + nums[i]) ;
+
+            prev2 =  prev1 ;
+            prev1 = curr ;
         }
         // maximum amount  will be at the n-1 index 
-        return dp[n-1] ;
+        return prev1 ;
     }
 };
