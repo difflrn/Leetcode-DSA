@@ -3,7 +3,8 @@ public:
     int solve( vector<int> &nums , int start , int end ) {
         int n =  nums.size() ;
        
-        vector <int> dp (n-1) ;
+        //space optimised method after memoisation , tabulation 
+       // vector <int> dp (n-1) ;
        int  prev2 = nums[start] ;
        int  prev1 = max(nums[start],nums[start+1]) ;
 
