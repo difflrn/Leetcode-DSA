@@ -1,21 +1,20 @@
-// As we can see it is said that array is sorted so we can apply TWO POINTER 
-
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        int n = nums.size()  ;
+        int n =  nums.size() ;
+        int s = 0 ; 
+        int e = n -1 ;
 
-        int s = 0 ;
-        int e = n - 1 ;
         while ( s<e ){
-            if ( nums[s]+ nums[e] == target ){
-                return {s+1 , e+1};
+            int sum = nums[s]+nums[e] ;
+            if( sum == target){
+                return { s+1, e+1} ;
             }
-            else if ( nums[s]+ nums[e] < target ){
+            else if ( sum < target ){
                 s++ ;
             }
-            else {
-                e-- ;
+            else{
+                e--;
             }
         }
         return {} ;
