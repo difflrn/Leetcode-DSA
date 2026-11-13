@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/difflrn/Leetcode-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0622-design-circular-queue](https://github.com/difflrn/Leetcode-DSA/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/difflrn/Leetcode-DSA/tree/master/0641-design-circular-deque) |
+| [0746-min-cost-climbing-stairs](https://github.com/difflrn/Leetcode-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1254-number-of-closed-islands](https://github.com/difflrn/Leetcode-DSA/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/difflrn/Leetcode-DSA/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/difflrn/Leetcode-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/difflrn/Leetcode-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/difflrn/Leetcode-DSA/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/difflrn/Leetcode-DSA/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/difflrn/Leetcode-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/difflrn/Leetcode-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/difflrn/Leetcode-DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/difflrn/Leetcode-DSA/tree/master/3665-twisted-mirror-path-count) |
