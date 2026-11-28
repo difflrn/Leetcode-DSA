@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/difflrn/Leetcode-DSA/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/difflrn/Leetcode-DSA/tree/master/0641-design-circular-deque) |
 | [0746-min-cost-climbing-stairs](https://github.com/difflrn/Leetcode-DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [1207-unique-number-of-occurrences](https://github.com/difflrn/Leetcode-DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1254-number-of-closed-islands](https://github.com/difflrn/Leetcode-DSA/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/difflrn/Leetcode-DSA/tree/master/1267-count-servers-that-communicate) |
 | [1352-product-of-the-last-k-numbers](https://github.com/difflrn/Leetcode-DSA/tree/master/1352-product-of-the-last-k-numbers) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/difflrn/Leetcode-DSA/tree/master/0001-two-sum) |
+| [1207-unique-number-of-occurrences](https://github.com/difflrn/Leetcode-DSA/tree/master/1207-unique-number-of-occurrences) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/difflrn/Leetcode-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/difflrn/Leetcode-DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/difflrn/Leetcode-DSA/tree/master/3331-find-subtree-sizes-after-changes) |
